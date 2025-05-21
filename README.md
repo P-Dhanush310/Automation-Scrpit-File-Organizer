@@ -16,7 +16,7 @@ This Python script automatically organizes files in a target directory by catego
 
 ## Technologies Used
 
-- **Python 3.x**
+- **Python 3.13.3**
 - Built-in modules:
   - `os`
   - `shutil`
