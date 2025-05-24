@@ -34,5 +34,6 @@ This Python script automatically organizes files in a target directory by catego
 
 1. **Clone this repository**:
    ```bash
-   git clone https://github.com/yourusername/file-organizer.git
-   cd file-organizer
+   git clone https://github.com/yourusername/File_Organizer.git
+   cd File_Organizer
+   
